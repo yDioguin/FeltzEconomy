@@ -1,0 +1,6 @@
+name: FeltzEconomy
+version: 1.0
+main: pt.dioguin.feltzeconomy.Main
+author: yDioguin
+commands:
+  money:

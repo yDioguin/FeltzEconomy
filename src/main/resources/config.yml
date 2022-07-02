@@ -1,0 +1,10 @@
+Messages:
+  See your money: '&aVocê possui &f{formattedMoney} &acoins.'
+  Invalid player: '&cJogador inexistente.'
+  See another player's money: '&aO jogador &f{player} &apossui &f{formattedMoney} &acoins.'
+  Wrong amount: '&cEnvie uma quantia válida de coins.'
+  Player doesn't online: '&cO destinatário não se encontra online.'
+  Send money: '&aVocê enviou &f{formattedMoney} &acoins para o jogador &f{received}&a.'
+  Receive money: '&aVocê recebeu &f{formattedMoney} &acoins do jogador &f{sender}&a.'
+  Insufficient founds: '&cVocê não tem coins o suficiente para concluir esta transação.'
+  Same player: '&cVocê não pode enviar dinheiro para si mesmo.'
